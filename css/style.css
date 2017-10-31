@@ -1,0 +1,15 @@
+.my-nav {
+  background: #BC8F8F;
+}
+.navbar-default .navbar-brand{color:white} 
+.my-nav ul {
+  margin: 10px 0;
+}
+.nav>li>a{
+	border-radius: 20px;
+	margin-right: 5px;
+	padding:10px;
+}
+.row {
+	padding-top: 55px;
+}
